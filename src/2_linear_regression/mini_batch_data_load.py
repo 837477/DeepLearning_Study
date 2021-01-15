@@ -3,6 +3,10 @@ import torch.nn as nn
 import torch.nn.functional as F
 from torch.utils.data import TensorDataset # 텐서데이터셋
 from torch.utils.data import DataLoader # 데이터로더
+'''
+파이토치는 데이터셋을 조금 더 쉽게 다룰 수 있도록 torch.utils.data.Dataset과 torch.utils.data.DataLoader를 제공한다.
+이를 사용하면 미니 배치 학습, 데이터 셔플, 병렬 처리까지 간단하게 수행할 수 있다.
+'''
 
 torch.manual_seed(1)
 
