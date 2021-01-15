@@ -7,6 +7,10 @@
 1. 텐서 조작하기
     - Numpy와 PyTorch로 텐서 만들기
 
+2. 선형 회귀 (Linear Regression)
+    - 선형 회귀 구현하기
+    - 다중 성현 회귀 구현하기
+
 
 ## Meta
 
