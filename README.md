@@ -5,8 +5,7 @@
 
 ## Indexes
 1. 텐서 조작하기
-    - Numpy로 텐서 만들기
-    - PyTorch로 텐서 만들기
+    - Numpy와 PyTorch로 텐서 만들기
 
 
 ## Meta
