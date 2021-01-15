@@ -57,7 +57,6 @@ for epoch in range(epochs):
     optimizer.step()
 
     if epoch % 100 == 0:
-        # Epoch 2000/2001 W: 1.997, b: 0.006 Cost: 0.000005
         # print("Epoch %4d/%d w1: %.3f w2: %.3f w3: %.3f, b: %.3f, Cost: %f" %(epoch, epochs, w1.item(), w2.item(), w3.item(), b.item(), cost.item()))
         print("Epoch {:4d}/{} hypothesis: {} Cost: {:.6f}".format(epoch, epochs, hypothesis.squeeze().detach(), cost.item()))
 
