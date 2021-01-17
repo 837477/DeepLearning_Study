@@ -28,6 +28,7 @@
 5. 인공 신경망 (Aritificial Neural Network)
     - 퍼셉트론
     - XOR GATE 단층/다층 퍼셉트론으로 구현하기
+    - 다층 퍼셉트론으로 손글씨 분류
 
 
 ## Meta
