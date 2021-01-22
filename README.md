@@ -32,6 +32,7 @@
 
 6. 합성곱 신경망 (CNN)
     - CNN으로 MNIST 분류하기
+    - 깊은 CNN으로 MNIST 분류하기
 
 ## Meta
 
