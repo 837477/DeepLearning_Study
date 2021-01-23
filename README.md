@@ -45,7 +45,6 @@
     - 토치 텍스트 (Torchtext)
         - English version
         - Korean version
-    - 토치 텍스트의 batch_first
 
 ## Meta
 
