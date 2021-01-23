@@ -34,6 +34,19 @@
     - CNN으로 MNIST 분류하기
     - 깊은 CNN으로 MNIST 분류하기
 
+7. 자연어 처리의 전처리
+    - 자연어 전처리
+        - 토큰화 (Tokenization)
+            - spaCy
+            - NLTK
+            - 형태소 토큰화
+        - 단어 집합 (Vacabulary)
+        - 각 단어에 고유 정수 부여
+    - 토치 텍스트 (Torchtext)
+        - English version
+        - Korean version
+    - 토치 텍스트의 batch_first
+
 ## Meta
 
 🙋🏻‍♂️ Name: 837477
