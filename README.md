@@ -1,6 +1,9 @@
 # PyTorch study
 > 파이토치를 통한 딥러닝 학습에서 다룬 "실습 코드"들을 모아둔 저장소입니다.
 
+본 실습은 Wikidocs의 PyTorch로 시작하는 딥러닝 입문을 참고하여 진행되었습니다.
+https://wikidocs.net/book/2788
+
 <br>
 
 ## Indexes
@@ -50,7 +53,11 @@
     - NLP의 원-핫 인코딩
     - 워드 임베딩
     - 워드 투 벡터
-    - 
+
+9. 순환 신경망 (RNN)
+    - 문자 단위 RNN (Char RNN)
+    - 문자 단위 RNN (Char RNN) - 더 많은 데이터
+    - 문자 단위 RNN - 임베딩 사용
 
 ## Meta
 
