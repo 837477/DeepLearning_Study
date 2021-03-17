@@ -1,12 +1,11 @@
-# PyTorch study
-> 파이토치를 통한 딥러닝 학습에서 다룬 "실습 코드"들을 모아둔 저장소입니다.
-
-본 실습은 Wikidocs의 PyTorch로 시작하는 딥러닝 입문을 참고하여 진행되었습니다.
-https://wikidocs.net/book/2788
+# Deep learning study
+> 딥러닝 학습을 진행하면서 다룬 "실습 코드"들입니다.
 
 <br>
 
-## Indexes
+# Indexes
+
+### PyTorch로 시작하는 딥 러닝 입문
 1. 텐서 조작하기
     - Numpy와 PyTorch로 텐서 만들기
 
