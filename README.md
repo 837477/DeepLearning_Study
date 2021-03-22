@@ -8,7 +8,8 @@
 ### 개인 연습
 1. 파이토치 다루기 (pytorch_tutorials)
     - Tensor 생성
-    - Tensor 연산
+    - Tensor 기본 연산
+    - Tensor 형태 변환
 
 ### [Wikidocs] PyTorch로 시작하는 딥 러닝 입문
 1. 텐서 조작하기
