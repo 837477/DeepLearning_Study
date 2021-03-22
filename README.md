@@ -1,11 +1,16 @@
 # Deep learning study
-> 딥러닝 학습을 진행하면서 다룬 "실습 코드"들입니다.
+> 딥러닝 학습 실습 코드
 
 <br>
 
 # Indexes
 
-### PyTorch로 시작하는 딥 러닝 입문
+### 개인 연습
+1. 파이토치 다루기 (pytorch_tutorials)
+    - Tensor 생성
+    - Tensor 연산
+
+### [Wikidocs] PyTorch로 시작하는 딥 러닝 입문
 1. 텐서 조작하기
     - Numpy와 PyTorch로 텐서 만들기
 
