@@ -10,6 +10,8 @@
     - Tensor 생성
     - Tensor 기본 연산
     - Tensor 형태 변환
+    - Tensor 자르기 & 붙이기
+
 
 ### [Wikidocs] PyTorch로 시작하는 딥 러닝 입문
 1. 텐서 조작하기
