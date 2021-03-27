@@ -12,6 +12,10 @@
     - Tensor 형태 변환
     - Tensor 자르기 & 붙이기
 
+2. 신경망의 기본 구성요소 살펴보기 (linear_layer)
+    - 행렬 곱
+    - Linear layer
+    - GPU 사용하기
 
 ### [Wikidocs] PyTorch로 시작하는 딥 러닝 입문
 1. 텐서 조작하기
