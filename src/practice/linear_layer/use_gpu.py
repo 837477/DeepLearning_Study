@@ -70,13 +70,11 @@ class UseGpu():
         for p in linear.parameters():
             print(p)
         
-        
         # model은 어느 디바이스에 있는지 확인할 수 없다.
         # 정확하게는 가능은 하지만, pytorch에서 device 매소드를 지원하지 않는다.
         # linear.device 
-        
 
-    
+
 if __name__ == "__main__":
     test = UseGpu()
     test.conver_cuda()
